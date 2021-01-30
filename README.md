@@ -3,7 +3,7 @@ My practice codes (programming languages I know are C, C++, java, JS &amp; also 
 Description about main.c is as follows :
 Given a square matrix, calculate the absolute difference between the sums of its diagonals.
 
-For example, the square matrix arr is shown below:
+For example, the square matrix arr is :
 1 2 3
 4 5 6
 9 8 9  
