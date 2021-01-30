@@ -16,23 +16,18 @@ int arr_rows: number of rows,
 int arr_columns: number of columns, 
 int arr[size][size]: an array of integers
 
-Return
-int: the absolute diagonal difference
+This function Returns int: the absolute diagonal difference
 
-Input Format
-The first line contains a single integer, n, the number of rows and columns in the square matrix.
+Input Format: The first line contains a single integer, n, the number of rows and columns in the square matrix.
 
-Output Format
-Return the absolute difference between the sums of the matrix's two diagonals as a single integer.
+Output Format: Return the absolute difference between the sums of the matrix's two diagonals as a single integer.
 
-Sample Input
-
-number of rows & columns: 3
-11  2  4 
- 4  5  6 
+Sample Input: number of rows & columns: 3
+11  2  4
+4  5  6 
 10  8 -12
 
-Sample Output
+Sample Output:
 15
 
 Explanation:
